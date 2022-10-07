@@ -1,0 +1,347 @@
+
+
+
+.mainHeader{
+    background-color: rgb(63, 63, 63);
+    color: white;
+}
+
+nav{
+    background-color: rgb(56, 56, 56);
+    display: inline-block;
+    padding: 20px;
+    margin: 33px;
+    color: white;
+
+}
+
+div{
+    display: inline-block;
+    width: 40vw;
+    padding-left: 8vw;
+    vertical-align: middle;
+}
+
+.mainHeaderh1{
+    line-height: 0%;
+}
+
+.mainHeaderh4{
+    padding: 0px;
+    
+}
+
+.mainHeadera {
+    padding: 10px;
+}
+
+a.mainHeadera:link {
+    color: white;
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  a.mainHeadera:visited {
+    color: white;
+    text-decoration: none;
+  }
+  
+  /* mouse over link */
+  a.mainHeadera:hover {
+    color: hotpink;
+    text-decoration: none;
+  }
+  
+  /* selected link */
+  a.mainHeadera:active {
+    color: blue;
+    text-decoration: none;
+  }
+
+
+  section {
+    background-color: white;
+}
+
+.mainSection{
+    background-color: rgb(63, 63, 63);
+    margin-top: 30px;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    text-align: center;
+    height: 30vw;
+    line-height: 30vw;}
+
+    .centralSectionh1 {
+font-size: 40px;
+color: white;
+    }
+
+.fourElementsArticle{
+    display: block;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-top: 5vh;
+    padding-bottom: 32px;
+    border-bottom: 1px solid grey;
+}
+
+.fourElementsCell{
+        display: inline-block;
+        width: 24%;
+        padding-right: 0px;
+}
+
+.fourElementsCellImage {
+    display: inline-block;
+    background-color: grey;
+    width: 32px;
+    height: 32px;
+}
+
+.fourElementsCellh2{
+    display: inline-block;
+    font-size: 16px;
+    line-height: 32px;
+}
+
+a.fourElementsCella{
+    display: inline;
+    text-align: right;
+}
+
+.fourElementsLinkDiv{
+    display: inline;
+  padding-left: 70%;
+}
+
+a.fourElementsCella:link {
+    color: orange;
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  a.fourElementsCella:visited {
+    color: orange;
+    text-decoration: none;
+  }
+  
+  /* mouse over link */
+  a.fourElementsCella:hover {
+    color: hotpink;
+    text-decoration: none;
+  }
+  
+  /* selected link */
+  a.fourElementsCella:active {
+    color: blue;
+    text-decoration: none;
+  }
+
+  .threeElementsArticle{
+    display: block;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-top: 5vh;
+    padding-bottom: 32px;
+  }
+
+  .threeElementsCell{
+    display: inline-block;
+    width: 290px;
+    height: 190px;
+  margin-bottom: 32px;
+    background-color: rgb(63, 63, 63);
+    text-align: center;
+  }
+
+  .threeElementsCell:nth-child(2){
+    margin-left: 9.9vw;
+  } 
+  
+  .threeElementsCell:nth-child(3){
+    margin-left: 9.9vw;
+  }
+
+  .threeElementsh2{
+    font-size: 32px;
+    color: white;
+    line-height: 140px;
+  }
+
+  .threeElementCellDiv{
+    display: inline-block;
+    margin-left: 30vw;
+    text-align: right;
+  }
+
+  a.threeElementsCella:link {
+    color: orange;
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  a.threeElementsCella:visited {
+    color: orange;
+    text-decoration: none;
+  }
+  
+  /* mouse over link */
+  a.threeElementsCella:hover {
+    color: hotpink;
+    text-decoration: none;
+  }
+  
+  /* selected link */
+  a.threeElementsCella:active {
+    color: blue;
+    text-decoration: none;
+  }
+
+  .finalArticle{
+    display: block;
+    border-top: 1px solid grey;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-top: 5vh;
+  }
+
+  .twoElementsArticle{
+    display: inline-block;
+    width: 50vw;
+  }
+
+  aside.bottomAside{
+    width: 290px;
+    float: right;
+
+  }
+
+
+  a.asideA:link {
+    color: grey;
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  a.asideA:visited {
+    color: grey;
+    text-decoration: none;
+  }
+  
+  /* mouse over link */
+  a.asideA:hover {
+    color: hotpink;
+    text-decoration: none;
+  }
+  
+  /* selected link */
+  a.asideA:active {
+    color: blue;
+    text-decoration: none;
+  }
+
+.asideHeader{
+    border-bottom: 1px solid grey;
+    margin-bottom: 18px;
+}
+  .asideh2{
+    color: grey;
+  }
+  
+ .asideAdiv{
+    display: inline-block;
+    padding-left: 0px;
+    border-bottom: 1px solid grey;
+    width: 270px;
+    line-height: 28px;
+ }
+
+ .twoElementsCell{
+    display: block;
+    width: 50vw;
+    height: 180px;
+ }
+
+ .twoElementCellImage{
+    width: 180px;
+    height: 150px;
+    margin-top: 24px;
+    float: left;
+    background-color: rgb(63, 63, 63);
+ }
+
+ .twoElementCellContent{
+    height: 150px;
+    width: 35vw;
+    float: right;
+    margin-top: 12px;
+ }
+
+ .twoElementDivLink{
+display: block;
+width: 190px;
+ }
+
+ .twoElementCellh2{
+  color: grey;
+font-size: 18px;
+ }
+
+ .twoElementCellp {
+color: grey;
+ }
+
+ .twoElementImage{
+  color: white;
+  text-align: center;
+  line-height: 120px;
+  font-size: 24px;
+ }
+
+ .twoElementDivLink{
+  float: right;
+  text-align: right;
+ }
+
+ .twoElementCella:link{
+  color: orange;
+  text-decoration: none;
+ }
+
+ .twoElementCella:visited{
+  color: orange;
+  text-decoration: none;
+ }
+
+ footer{
+  display: block;
+  margin-top: 5vh;
+  background-color: rgb(63, 63, 63);
+  color: grey;
+  padding: 12px;
+  line-height: 44px;
+ }
+
+ .spanLeft{
+  display: inline-block;
+  width: 60vw;
+ }
+
+ .spanRight{
+  display: inline-block;
+  width: 15vw;
+}
+
+ul {
+  list-style: none; /* Remove default bullets */
+}
+
+ul li::before {
+  content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  color: orange; /* Change the color */
+  font-weight: bold; /* If you want it to be bold */
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 1em; /* Also needed for space (tweak if needed) */
+  margin-left: -1em; /* Also needed for space (tweak if needed) */
+}
